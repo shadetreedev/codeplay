@@ -29,7 +29,9 @@ r.is_rtl=!1,r.PluralRules=function(){
     },
     n.exports=function(){
         return r
-    }}),
+    }
+}
+),
     n("../native/js/ext/twitter_cldr/zh-cn",
     ["require","exports","module"],
     function(e,t,n){
